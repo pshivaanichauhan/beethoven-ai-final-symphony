@@ -58,3 +58,6 @@ pip install -r requirements.txt
 python src/main.py
 📜 License
 This project is licensed under the MIT License.
+---
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red) by **Priya Shivaani Chauhan**
