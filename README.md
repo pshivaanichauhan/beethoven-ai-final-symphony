@@ -1,12 +1,5 @@
 # 🎼 Beethoven AI: Final Symphony  
 
-![License](https://img.shields.io/badge/license-MIT-green)  
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)  
-![Status](https://img.shields.io/badge/status-active-brightgreen)  
-![Stars](https://img.shields.io/github/stars/pshivaanichauhan/beethoven-ai-final-symphony?style=social)  
-![Forks](https://img.shields.io/github/forks/pshivaanichauhan/beethoven-ai-final-symphony?style=social)  
-# 🎼 Beethoven AI: Final Symphony  
-
 A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.  
 
 ---
@@ -35,16 +28,18 @@ A groundbreaking project merging Beethoven’s timeless genius with modern AI te
 
 ## 📂 Project Structure  
 
+```
 beethoven-ai-final-symphony/
-│── README.md # Project documentation
-│── requirements.txt # Dependencies
-│── src/ # Source code
-│ ├── main.py
-│ ├── cv_analysis.py
-│ ├── game_theory_collab.py
-│ ├── ml_authenticity.py
-│ ├── rpa_orchestration.py
-│ └── algorithms_rhythm.py
+│── README.md              # Project documentation  
+│── requirements.txt       # Dependencies  
+│── src/                   # Source code  
+│   ├── main.py  
+│   ├── cv_analysis.py  
+│   ├── game_theory_collab.py  
+│   ├── ml_authenticity.py  
+│   ├── rpa_orchestration.py  
+│   └── algorithms_rhythm.py  
+```
 
 ---
 
@@ -54,10 +49,20 @@ beethoven-ai-final-symphony/
 git clone https://github.com/pshivaanichauhan/beethoven-ai-final-symphony.git
 cd beethoven-ai-final-symphony
 pip install -r requirements.txt
-▶️ Usage
+```
+
+## ▶️ Usage  
+
+```bash
 python src/main.py
-📜 License
-This project is licensed under the MIT License.
+```
+
+---
+
+## 📜 License  
+
+This project is licensed under the MIT License.  
+
 ---
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red) by **Priya Shivaani Chauhan**
