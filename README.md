@@ -1,5 +1,12 @@
 # 🎼 Beethoven AI: Final Symphony  
 
+![License](https://img.shields.io/badge/license-MIT-green)  
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)  
+![Status](https://img.shields.io/badge/status-active-brightgreen)  
+![Stars](https://img.shields.io/github/stars/pshivaanichauhan/beethoven-ai-final-symphony?style=social)  
+![Forks](https://img.shields.io/github/forks/pshivaanichauhan/beethoven-ai-final-symphony?style=social)  
+# 🎼 Beethoven AI: Final Symphony  
+
 A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.  
 
 ---
